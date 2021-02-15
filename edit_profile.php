@@ -19,7 +19,7 @@ if (isset($_SESSION['username']) === false) { // cek session apakah kosong(belum
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Edit Profile | PT Sampoerna Mild</title>
+    <title>Edit Profile | Quinnzel Corp</title>
     <!-- CSS only -->
     <link rel="stylesheet" href="bootstrap4/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -37,7 +37,7 @@ if (isset($_SESSION['username']) === false) { // cek session apakah kosong(belum
         <div class="container-fluid">
             <div class="navbar-header">
 
-                <a href="halaman-menu-utama.php" class="navbar-brand page">PT HM SAMPOERNA Tbk.</a>
+                <a href="halaman-menu-utama.php" class="navbar-brand page">Quinnzel Corp</a>
             </div>
 
 
