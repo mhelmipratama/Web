@@ -35,6 +35,7 @@ if (isset($_SESSION['username']) === false) { // cek session apakah kosong(belum
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="halaman-menu-utama.php">Home</a></li>
+					<li><a href="edit_profile.php">Edit Profile</a></li>
           			<li><a href="halaman-detail.php">Tentang</a></li>
           			<li><a href="halaman-data-karyawan.php">Data Karyawan</a></li>
 					<li><a href="index.php">Logout</a></li>
